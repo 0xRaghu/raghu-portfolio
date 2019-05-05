@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/raghu-portfolio/static/css/main.9f524fa4.chunk.css",
+    "main.js": "/raghu-portfolio/static/js/main.7d97b777.chunk.js",
+    "main.js.map": "/raghu-portfolio/static/js/main.7d97b777.chunk.js.map",
+    "runtime~main.js": "/raghu-portfolio/static/js/runtime~main.7aca6521.js",
+    "runtime~main.js.map": "/raghu-portfolio/static/js/runtime~main.7aca6521.js.map",
+    "static/css/2.a414b599.chunk.css": "/raghu-portfolio/static/css/2.a414b599.chunk.css",
+    "static/js/2.5e01b4b1.chunk.js": "/raghu-portfolio/static/js/2.5e01b4b1.chunk.js",
+    "static/js/2.5e01b4b1.chunk.js.map": "/raghu-portfolio/static/js/2.5e01b4b1.chunk.js.map",
+    "index.html": "/raghu-portfolio/index.html",
+    "precache-manifest.611359add655480c4cda6e9430d07090.js": "/raghu-portfolio/precache-manifest.611359add655480c4cda6e9430d07090.js",
+    "service-worker.js": "/raghu-portfolio/service-worker.js",
+    "static/css/2.a414b599.chunk.css.map": "/raghu-portfolio/static/css/2.a414b599.chunk.css.map",
+    "static/css/main.9f524fa4.chunk.css.map": "/raghu-portfolio/static/css/main.9f524fa4.chunk.css.map",
+    "static/media/antdesign.svg": "/raghu-portfolio/static/media/antdesign.b29324c4.svg",
+    "static/media/blockchain.jpg": "/raghu-portfolio/static/media/blockchain.2876f881.jpg",
+    "static/media/App.css": "/raghu-portfolio/static/media/blockchain_bg.5f02be2b.jpg",
+    "static/media/bootstrap.svg": "/raghu-portfolio/static/media/bootstrap.ffded238.svg",
+    "static/media/hyperledger.png": "/raghu-portfolio/static/media/hyperledger.2899deb4.png",
+    "static/media/logo.svg": "/raghu-portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/meteor.jpg": "/raghu-portfolio/static/media/meteor.2ed7d95f.jpg",
+    "static/media/node.png": "/raghu-portfolio/static/media/node.6dcf6999.png",
+    "static/media/raghu.jpg": "/raghu-portfolio/static/media/raghu.c045ac12.jpg",
+    "static/media/react.jpg": "/raghu-portfolio/static/media/react.b7ec638e.jpg",
+    "static/media/ruby.png": "/raghu-portfolio/static/media/ruby.cb75cc00.png",
+    "static/media/wordpress.png": "/raghu-portfolio/static/media/wordpress.75e92a6f.png"
+  }
+}
