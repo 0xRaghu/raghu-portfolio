@@ -41,7 +41,7 @@ export default class timeline extends Component {
           >
             <p>
               <b>
-                Completed Bachelor of Engineering in Computer Science - 2012
+                2012 - Completed Bachelor of Engineering in Computer Science
               </b>
             </p>
             <p>from SRR Engineering College, Chennai, India</p>
@@ -66,7 +66,7 @@ export default class timeline extends Component {
             dot={<Icon type="laptop" style={{ fontSize: "20px" }} />}
           >
             <p>
-              <b>Started with Web Development - 2014</b>
+              <b>2014 - Started with Web Development</b>
             </p>
             <p>using HTML, CSS and Javascript</p>
           </Timeline.Item>
@@ -82,7 +82,7 @@ export default class timeline extends Component {
             dot={<Icon type="bank" style={{ fontSize: "20px" }} />}
           >
             <p>
-              <b>Product Control Specialist - 2015 to 2016</b>
+              <b>2015 to 2016 - Product Control Specialist</b>
             </p>
             <p>at Standard Chartered Global Services, Chennai, India</p>
           </Timeline.Item>
@@ -101,7 +101,7 @@ export default class timeline extends Component {
             dot={<Icon type="bank" style={{ fontSize: "20px" }} />}
           >
             <p>
-              <b>Assistant Manager - 2016 to 2017</b>
+              <b>2016 to 2017 - Assistant Manager</b>
             </p>
             <p>at Barclays Global Service Center, Chennai, India</p>
           </Timeline.Item>
@@ -119,7 +119,7 @@ export default class timeline extends Component {
             color="green"
           >
             <p>
-              <b>Co-Founder & CEO - from 2018</b>
+              <b>from 2018 - Co-Founder & CEO</b>
             </p>
             <p>at CelebratON.in, Event Services Aggregator</p>
           </Timeline.Item>
