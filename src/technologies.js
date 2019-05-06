@@ -28,127 +28,127 @@ export default function technologies() {
         type="flex"
         style={{ alignItems: "center", justifyContent: "center" }}
       >
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={blockchain}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
             alt="Blockchain"
           />
           <br />
-          <Title level={4}>Blockchain</Title>
+          <p style={{fontSize:"15px"}}>Blockchain</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={ethereum}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Ethereum"
+            alt="ethereum"
           />
           <br />
-          <Title level={4}>Ethereum</Title>
+          <p style={{fontSize:"15px"}}>Ethereum</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={hyperledger}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Hyoerledger"
+            alt="hyperledger"
           />
           <br />
-          <Title level={4}>Hyper Ledger</Title>
+          <p style={{fontSize:"15px"}}>Hyper Ledger</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={react}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="React"
+            alt="react"
           />
           <br />
-          <Title level={4}>React JS</Title>
+          <p style={{fontSize:"15px"}}>React JS</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={next}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Next"
+            alt="next"
           />
           <br />
-          <Title level={4}>Next JS</Title>
+          <p style={{fontSize:"15px"}}>Next JS</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={meteor}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Meteor"
+            alt="meteor"
           />
           <br />
-          <Title level={4}>Meteor JS</Title>
+          <p style={{fontSize:"15px"}}>Meteor JS</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={nodejs}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Node JS"
+            alt="nodejs"
           />
           <br />
-          <Title level={4}>Node JS</Title>
+          <p style={{fontSize:"15px"}}>Node JS</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={ruby}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Ruby"
+            alt="ruby"
           />
           <br />
-          <Title level={4}>Ruby on Rails</Title>
+          <p style={{fontSize:"15px"}}>Ruby on Rails</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={mongodb}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Mongo DB"
+            alt="mongodb"
           />
           <br />
-          <Title level={4}>Mongo DB</Title>
+          <p style={{fontSize:"15px"}}>Mongo DB</p>
         </Col>
-
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={bootstrap}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Bootstrap"
+            alt="bootstrap"
           />
           <br />
-          <Title level={4}>Bootstrap</Title>
+          <p style={{fontSize:"15px"}}>Bootstrap</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={antdesign}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Ant Design"
+            alt="ant design"
           />
           <br />
-          <Title level={4}>Ant Design</Title>
+          <p style={{fontSize:"15px"}}>Ant Design</p>
         </Col>
-        <Col xs={12} sm={12} md={8} lg={6} xl={4}>
+        <Col xs={6} sm={6} md={3} lg={2} xl={2}>
           <img
             src={wordpress}
-            width="100px"
+            width="50px"
             style={{ borderRadius: "10%" }}
-            alt="Wordpress"
+            alt="wordpress"
           />
           <br />
-          <Title level={4}>Wordpress</Title>
+          <p style={{fontSize:"15px"}}>Wordpress</p>
         </Col>
+        
       </Row>
     </div>
   );
