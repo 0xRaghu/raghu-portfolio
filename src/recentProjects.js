@@ -1,16 +1,5 @@
 import React, { Component } from "react";
-import {
-  List,
-  Card,
-  Avatar,
-  Row,
-  Col,
-  Typography,
-  Progress,
-  Icon,
-  Button
-} from "antd";
-import IndividualSkill from "./indSkill.js";
+import { Card, Row, Col, Typography, Button } from "antd";
 const { Meta } = Card;
 const { Title } = Typography;
 
@@ -23,9 +12,14 @@ export default class recentProjects extends Component {
         <br />
         <Row
           align="middle"
-          gutter={0}
+          gutter={16}
           type="flex"
-          style={{ alignItems: "center", justifyContent: "center" }}
+          style={{
+            alignItems: "center",
+            justifyContent: "center",
+            marginLeft: "0px !important",
+            marginRight: "0px !important"
+          }}
         >
           <Col>
             <Card
@@ -34,6 +28,7 @@ export default class recentProjects extends Component {
                 <a
                   href="https://github.com/raghu-19/Ethereum-Pet-Shop"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <Button type="primary" icon="github">
                     Github Link
@@ -61,12 +56,17 @@ export default class recentProjects extends Component {
                 <a
                   href="https://github.com/raghu-19/celebraton-client"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <Button type="primary" icon="github">
                     Github Link
                   </Button>
                 </a>,
-                <a href="https://www.celebraton.in" target="_blank">
+                <a
+                  href="https://www.celebraton.in"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <Button
                     style={{ backgroundColor: "red", color: "white" }}
                     icon="link"

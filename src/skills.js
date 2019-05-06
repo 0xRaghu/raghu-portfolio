@@ -1,8 +1,6 @@
 import React from "react";
-import { List, Card, Avatar, Row, Col, Typography, Progress } from "antd";
-import "./App.css";
+import { Typography } from "antd";
 import IndividualSkill from "./indSkill.js";
-const { Meta } = Card;
 const { Title } = Typography;
 
 export default function technologies() {

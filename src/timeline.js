@@ -1,16 +1,5 @@
 import React, { Component } from "react";
-import {
-  List,
-  Card,
-  Avatar,
-  Row,
-  Col,
-  Typography,
-  Progress,
-  Timeline,
-  Icon
-} from "antd";
-const { Meta } = Card;
+import { Typography, Timeline, Icon } from "antd";
 const { Title } = Typography;
 
 export default class timeline extends Component {
