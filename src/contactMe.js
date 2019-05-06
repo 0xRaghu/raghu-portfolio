@@ -16,7 +16,12 @@ export default class contactMe extends Component {
           type="flex"
           align="middle"
           gutter={16}
-          style={{ alignItems: "center", justifyContent: "center" }}
+          style={{
+            alignItems: "center",
+            justifyContent: "center",
+            marginLeft: "0px !important",
+            marginRight: "0px !important"
+          }}
         >
           <Col>
             <a
@@ -30,6 +35,7 @@ export default class contactMe extends Component {
               />
             </a>
           </Col>
+
           <Col>
             <a href="https://github.com/raghu-19" target="_blank">
               <img
@@ -39,6 +45,7 @@ export default class contactMe extends Component {
               />
             </a>
           </Col>
+
           <Col>
             <a href="https://www.facebook.com/shriraghuraaman" target="_blank">
               <img

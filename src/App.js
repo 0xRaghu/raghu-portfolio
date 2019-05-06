@@ -5,6 +5,7 @@ import React, { Component } from "react";
 import Technologies from "./technologies.js";
 import Skills from "./skills.js";
 import RecentProjects from "./recentProjects.js";
+import Timeline from "./timeline.js";
 import ContactMe from "./contactMe.js";
 
 import ProfilePic from "./raghu.jpg";
@@ -48,7 +49,10 @@ class App extends Component {
         <div style={{ backgroundColor: "#f0f2f5" }}>
           <RecentProjects />
         </div>
-        <ContactMe />
+        <Timeline />
+        <div style={{ backgroundColor: "#f0f2f5" }}>
+          <ContactMe />
+        </div>
         {/* <Footer>something</Footer> */}
       </div>
     );

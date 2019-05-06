@@ -33,6 +33,11 @@
   }
 }
 
+div.ant-timeline-item-content {
+  margin: 0 0 0 0 !important;
+  padding: 0 0px 0 18px !important;
+}
+
 .background-image {
   size: cover;
   height: "100%";

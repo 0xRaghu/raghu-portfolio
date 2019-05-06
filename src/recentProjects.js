@@ -23,13 +23,13 @@ export default class recentProjects extends Component {
         <br />
         <Row
           align="middle"
-          gutter={16}
+          gutter={0}
           type="flex"
           style={{ alignItems: "center", justifyContent: "center" }}
         >
           <Col>
             <Card
-              style={{ width: 300 }}
+              style={{ width: 250 }}
               actions={[
                 <a
                   href="https://github.com/raghu-19/Ethereum-Pet-Shop"
@@ -56,7 +56,7 @@ export default class recentProjects extends Component {
           </Col>
           <Col>
             <Card
-              style={{ width: 300 }}
+              style={{ width: 250 }}
               actions={[
                 <a
                   href="https://github.com/raghu-19/celebraton-client"
